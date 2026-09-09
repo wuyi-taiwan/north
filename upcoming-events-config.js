@@ -32,16 +32,6 @@ const UPCOMING_EVENTS_CONFIG = [
   ,{
     order: 2,
     tag: "足部大健康",
-    date: "2026年9月19日（六）",
-    title: "大健康體驗會(台中南屯場)",
-    description: "「好好走路，從一雙對的鞋開始」，凡報名者贈送價值$380八合一遠紅外線除臭襪。",
-    location: "台中・好願飛行種子探索空間",
-    price: "$600 / 人",
-    formUrl: "https://forms.gle/WpEJRYbBajxgWzrf9"
-  }
-  ,{
-    order: 3,
-    tag: "足部大健康",
     date: "2026年10月13日（二）",
     title: "大健康體驗會(新北板橋場)",
     description: "現場提供足部檢測與結構平衡調理體驗，不推銷，帶您常穿的鞋子來體驗最有感。",
